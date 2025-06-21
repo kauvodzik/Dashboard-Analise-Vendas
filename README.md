@@ -41,7 +41,7 @@ Faça o download do arquivo `.pbix` presente neste repositório e abra utilizand
 
 ---
 
-## 👩‍💻 Desenvolvido por
+## 👩🏻‍💻 Desenvolvido por
 
 - **Kauane Pedroso Vodzik**  
 
